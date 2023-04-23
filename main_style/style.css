@@ -1898,10 +1898,13 @@ a {
 }
 .tra_theme_tab .theme_label label {
   display: block;
-  width: 50%;
+  width: 48%;
   text-align: center;
   line-height: 50px;
   font-size: 14px;
+}
+.tra_theme_tab .theme_label .theme_label01 {
+  margin-left: 10px;
 }
 .tra_theme_tab .theme_label .theme_label02 {
   display: -webkit-box;
