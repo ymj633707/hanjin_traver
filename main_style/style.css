@@ -3314,6 +3314,10 @@ width: 100%; }  /*이중선 제거*/
   }
   .tra_theme_tab .theme_label label {
     font-size: 20px;
+    width: 50%;
+  }
+  .tra_theme_tab .theme_label .theme_label01 {
+    margin-left: 0;
   }
   .theme_sheet02 .theme_sheet_box01 .theme_box01  {
     width: 505px;
